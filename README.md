@@ -124,13 +124,9 @@ streamlit run app.py
 
 ## 🌐 Web Application
 
-Add your Streamlit screenshots inside an `assets` folder and include them like this:
-
-```
 ![Home Page](assets/home.png)
 ![Prediction Output](assets/prediction.png)
 ![Explainability View](assets/explainability.png)
-```
 
 ---
 
