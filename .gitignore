@@ -1,0 +1,26 @@
+# 💾 Ignore model and data files
+models/saved_models/
+data/
+results/
+
+# 🧠 Model formats
+*.pkl
+*.pt
+*.npz
+*.h5
+*.keras
+*.safetensors
+
+# 🧹 Python cache
+__pycache__/
+*.pyc
+
+# 🧪 Streamlit cache
+.streamlit/
+
+# 💻 IDE settings
+.vscode/
+.idea/
+
+# 🧾 Logs
+*.log
