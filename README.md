@@ -124,7 +124,8 @@ streamlit run app.py
 
 ## 🌐 Web Application
 
-![Home Page](assets/Home.png)
+![Home Page](assets/home.png)
+![French Home Page](assets/french_home.png)
 ![Prediction Output](assets/prediction.png)
 ![Explainability View](assets/explainability.png)
 
